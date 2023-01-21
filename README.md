@@ -1,4 +1,3 @@
-![logo](https://github.com/Hrishi-g/Hrishi-g/blob/main/Thumbnail_Coding%403x%20(1).png)
 <h1 align="center">Hi 👋, I'm Hrishikesh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

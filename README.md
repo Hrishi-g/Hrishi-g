@@ -1,15 +1,69 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Backend / Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **Small Projects**
-
-- 🌱 I’m currently learning **React,Node.js**
-
-- 📫 How to reach me **hrishikeshrgupta@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Experienced in architecting and scaling backend services with <b>Java & Spring Boot</b>, building interactive interfaces with <b>React.js</b>, and working on high-throughput platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:hrishikeshrgupta@gmail.com"><img src="https://img.shields.io/badge/Email-hrishikeshrgupta%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+</p>
+
+---
+
+### 💼 What I Do
+
+- 🏢 **Backend Software Engineer at TCS** working on **SBI YONO 2.0**, building critical backend deposit journeys (FD, RD, AD) and optimizing high-load banking APIs.
+- ⚡ **Performance & Scalability**: Experienced in tuning high-traffic REST APIs, distributed caching with **Redis**, and event streaming with **Apache Kafka**.
+- 🛠️ **System Architecture**: Focused on microservices, transaction management, secure authentication (JWT/OAuth), and concurrent system safety (optimistic locking).
+- 🚢 **Deployment & DevOps**: Containerizing full-stack environments with **Docker** and configuring automated workflows via **GitHub Actions**.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages & Backend Architecture**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate JPA"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
+</p>
+
+**Frontend & Mobile**  
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+**Databases, Messaging & Caching**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+</p>
+
+**Cloud, DevOps & Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS_Lightsail-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/JUnit_/_Mockito-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="Testing"/>
+</p>
+
+---
+
+### 🚀 Highlighted Projects
+
+- **[Lets-Sampark](https://github.com/hrishikesh-gupta/lets-sampark)**: Real-time chat application featuring WebSocket messaging, Apache Kafka for async event processing, Redis TTL-based OTP verification, Spring Security (JWT), and Cloudflare R2 media storage deployed on AWS Lightsail via Docker Compose.
+- **[Cryptx](https://github.com/hrishikesh-gupta/cryptx)**: Full-stack cryptocurrency trading platform supporting INR transactions, real-time market updates, Razorpay integration, Google OAuth/JWT auth, and optimistic locking for concurrent wallet integrity.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrishikesh-gupta&show_icons=true&theme=radical" alt="Hrishikesh's GitHub Stats" />
+</p>

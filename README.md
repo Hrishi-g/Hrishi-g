@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://hrishig.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-hrishig%20Site-black?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:hrishikeshrgupta@gmail.com"><img src="https://img.shields.io/badge/Email-hrishikeshrgupta%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://linkedin.com/in/hrishig"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/hrishig"><img src="https://img.shields.io/badge/LinkedIn-hrisihg-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ---

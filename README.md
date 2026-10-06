@@ -54,16 +54,3 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/JUnit_/_Mockito-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="Testing"/>
 </p>
-
----
-
-### 🚀 Highlighted Projects
-
-- **[Lets-Sampark](https://github.com/hrishikesh-gupta/lets-sampark)**: Real-time chat application featuring WebSocket messaging, Apache Kafka for async event processing, Redis TTL-based OTP verification, Spring Security (JWT), and Cloudflare R2 media storage deployed on AWS Lightsail via Docker Compose.
-- **[Cryptx](https://github.com/hrishikesh-gupta/cryptx)**: Full-stack cryptocurrency trading platform supporting INR transactions, real-time market updates, Razorpay integration, Google OAuth/JWT auth, and optimistic locking for concurrent wallet integrity.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishikesh-gupta&show_icons=true&theme=radical" alt="Hrishikesh's GitHub Stats" />
-</p>
